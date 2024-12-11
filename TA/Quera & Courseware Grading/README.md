@@ -1,5 +1,5 @@
 
-# Quera and Courseware Submissions Refinement Script
+# _Quera_ and _Courseware_ Submissions Refinement Script
 
 This script organizes and cleans up student submission folders by eliminating redundant folders and files and cleaning up and fixing file names (e.g., adding missing student IDs and names to the filename)
 for both _**Quera**_ and _**Courseware**_ submissions.
